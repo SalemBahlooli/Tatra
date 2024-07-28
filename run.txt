@@ -1,0 +1,13 @@
+ ngrok URL:  https://fast-seal-reliably.ngrok-free.app
+ 
+ ngrok run: ngrok http --domain=fast-seal-reliably.ngrok-free.app 3000
+
+
+
+ database:
+
+ open studio : npx prisma studio
+
+ push new data : npx prisma db push
+---- then  npx prisma generate 
+ 
