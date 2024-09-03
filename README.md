@@ -33,8 +33,8 @@ Tatra is a live streaming platform similar to Twitch, built with modern web tech
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/tatra.git
-   cd tatra
+   git clone https://github.com/SalemBahlooli/Tatra.git
+   cd Tatra
    ```
 
 2. Install dependencies:
