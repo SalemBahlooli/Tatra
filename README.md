@@ -98,10 +98,7 @@ This project is licensed under the [MIT License](LICENSE).
 - [Clerk](https://clerk.dev/)
 - [UploadThing](https://uploadthing.com/)
 
-## Contact
 
-For any questions or concerns, please open an issue on this repository or contact the maintainers directly.
 
----
 
-Happy streaming with Tatra! 🎥🚀
+
