@@ -1,3 +1,6 @@
+
+![1-500×200](https://github.com/user-attachments/assets/18265053-ee9f-42d2-b9bc-3cef01cee698)
+
 # Tatra
 
 Tatra is a live streaming platform similar to Twitch, built with modern web technologies to provide a seamless streaming experience for both content creators and viewers.
@@ -17,6 +20,23 @@ Tatra is a live streaming platform similar to Twitch, built with modern web tech
 - **Streaming**: Livekit
 - **Authentication**: Clerk
 - **File Uploads**: UploadThing
+
+## Images:
+![لقطة شاشة 2024-09-03 153913](https://github.com/user-attachments/assets/22915e28-5504-44b5-a683-7881f2ebbbb0)
+
+![لقطة شاشة 2024-09-03 153711](https://github.com/user-attachments/assets/731c4103-a0f4-4f61-a27e-1b9f3e59a7e5)
+
+
+![لقطة شاشة 2024-09-03 153929](https://github.com/user-attachments/assets/42b8589b-23a3-43fc-98c6-6502b9890dce)
+
+
+![لقطة شاشة 2024-09-03 153946](https://github.com/user-attachments/assets/e2f59439-836b-41e5-a5ac-130b3342dc4f)
+
+![لقطة شاشة 2024-09-03 153747](https://github.com/user-attachments/assets/4bffdd79-7247-4d4d-a0f1-60049ea00662)
+
+
+![لقطة شاشة 2024-09-03 152246](https://github.com/user-attachments/assets/4b81ff39-9dc0-4c14-b295-6d803f2e4bef)
+
 
 ## Getting Started
 
@@ -97,6 +117,10 @@ This project is licensed under the [MIT License](LICENSE).
 - [Livekit](https://livekit.io/)
 - [Clerk](https://clerk.dev/)
 - [UploadThing](https://uploadthing.com/)
+
+
+
+
 
 
 
